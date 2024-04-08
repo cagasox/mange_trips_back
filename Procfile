@@ -1,1 +1,1 @@
-web: guigunicorn mangeTrips.wsgi
+web: gunicorn mangeTrips.wsgi
